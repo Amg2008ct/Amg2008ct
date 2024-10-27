@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Amg2008ct
+- 👀 I’m interested in learning to code
+- 🌱 I’m currently learning python
+- 😄 Pronouns: he/him
